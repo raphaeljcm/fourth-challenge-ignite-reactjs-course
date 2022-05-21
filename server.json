@@ -2,9 +2,9 @@
   "foods": [
     {
       "id": 2,
-      "name": "Kaskas",
+      "name": "Kaskassss",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.95",
+      "price": "22.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
