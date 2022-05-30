@@ -22,6 +22,16 @@ On this challenge I had to refactor the code. Changing Class Components to Funct
 
 </br>
 
+## 🖱 Technologies
+
+- ReactJS
+- TypeScript
+- Styled Components 
+- Axios
+- JSON Server
+
+</br>
+
 ## ✔ Running the application
 
 ```bash
